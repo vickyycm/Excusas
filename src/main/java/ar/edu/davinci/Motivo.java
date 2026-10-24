@@ -1,0 +1,10 @@
+package ar.edu.davinci;
+
+public enum Motivo {
+    QUEDARSE_DORMIDO,
+    PERDIDA_TRANSPORTE,
+    PERDIDA_SUMINISTRO,
+    CUIDADO_FAMILIAR,
+    IRRELEVANTE,
+    INVEROSIMIL
+}
